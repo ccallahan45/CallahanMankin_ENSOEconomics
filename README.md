@@ -1,6 +1,6 @@
 # Persistent effect of El Nino on global economic growth
 
-Replication code and data for "Persistent effect of El Nino on global economic growth," by Christopher Callahan and Justin Mankin.
+Replication code and data for "Persistent effect of El Nino on global economic growth," by Christopher Callahan and Justin Mankin, published in _Science_, May 2023.
 
 The repository is organized into **Scripts/**, **Figures/**, and **Data/** folders.
 
