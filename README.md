@@ -33,7 +33,7 @@ Each script performs a specific step of the analysis. The **main analysis** uses
 
 - `Process_Country_TempPrecip.ipynb` calculates observed country-level temperature and precipitation.
 
-- `Observed_ENSO_Indices.ipynb` calculates the observed E- and C-index, as well as the Niño3 and Niño3.4 ENSO indices.
+- `Observed_ENSO_Indices.ipynb` calculates the observed E- and C-index, as well as the Niño3 and Niño3.4 ENSO indices (and plots Fig. S1).
 
 - `Observed_Teleconnections.ipynb` uses the ENSO indices as well as country-level temp and precip to calculate the teleconnection indices used in the paper.
 
@@ -47,5 +47,25 @@ Each script performs a specific step of the analysis. The **main analysis** uses
 
 - `ENSO_Future_Damages.py` calculates future economic losses from warming-driven changes in ENSO. 
 
-There are also several **supplementary analyses** that uses additional scripts:
+- `Fig1.ipynb`, `Fig2.ipynb`, `Fig3.ipynb`, and `Fig4.ipynb` read the intermediate data, perform some final calculations, and plot the main figures.
+
+There are also several **supplementary analyses** that use additional scripts:
+
+- `Plot_Regression_Sensitivity.ipynb` plots many of the sensitivity analyses and alternative tests found in the Supplementary Material (Figs. S3, S4, S5, S8, S9, S14) based on the calculations from `ENSO_Growth_Regression.R`.
+
+- `DistributedLag_Testing.R` performs the synthetic data simulations used to evaluate models with different numbers of lags.
+
+- `Plot_DID_Testing.ipynb` evaluates and plots the alternative regression specifications that use a combination of country and year fixed effects, as well as the tests of effect heterogeneity. This script plots Figs. S6 and S7. 
+
+- `Plot_Marginal_Effects.ipynb` evaluates and compares the marginal effects of the E-index and C-index, and plots Fig. S10 accordingly.
+
+- `Plot_CountryLevel_Losses.ipynb` evaluates country-level economic damages (rather than just global damages) from the historical El Niño events and future ENSO changes, and plots Fig. S11 accordingly.
+
+- `Plot_Damage_Sensitivity.ipynb` plots the results of our future damages calculations when making alternative analytical choices such as using only one realization per climate model (Fig. S15).
+
+- `Plot_Growth_Trends.ipynb` plots the histogram of linear trends in country-level economic growth (Fig. S15).
+
+- `Plot_Persistence_Schematic.ipynb` plots the illustration of partially persistent growth effects (Fig. S16). 
+
+- `Calculate_Gridded_Teleconnections.py` calculates grid-cell teleconnections (rather than country-level) from the observational data. This script takes several hours on an HPC cluster. `Plot_Teleconnection_Heterogeneity.ipynb` then plots these grid-cell-level teleconnections alongside teleconnections calculated in moving windows (from `Observed_Teleconnections.ipynb`) in Fig. S17.
 
