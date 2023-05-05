@@ -1,6 +1,6 @@
 # Persistent effect of El Niño on global economic growth
 
-Replication code and data for "Persistent effect of El Ni\~{n}o on global economic growth," by Christopher Callahan and Justin Mankin, published in _Science_, May 2023. 
+Replication code and data for "Persistent effect of El Niño on global economic growth," by Christopher Callahan and Justin Mankin, published in _Science_, May 2023. 
 
 If you have questions or suggestions, contact Chris Callahan at _Christopher.W.Callahan.GR (at) dartmouth (dot) edu_.
 
@@ -31,5 +31,9 @@ Datasets not available in this repository are publicly available as follows:
 
 Each script performs a specific step of the analysis as follows:
 
-- `Observed_ENSO_Indices.ipynb` reads the observational (HadISST) data and calculates the E- and C-index, as well as the Ni\~{n}o3 and Ni\~{n}o3.4 ENSO indices.
+- `Process_Country_TempPrecip.ipynb` calculates observed country-level temperature and precipitation.
+
+- `Observed_ENSO_Indices.ipynb` calculates the observed E- and C-index, as well as the Niño3 and Niño3.4 ENSO indices.
+
+- `Observed_Teleconnections.ipynb` uses the ENSO indices as well as country-level temp and precip to calculate the teleconnection indices used in the paper.
 
