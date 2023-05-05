@@ -29,11 +29,20 @@ Datasets not available in this repository are publicly available as follows:
 
 ### Scripts
 
-Each script performs a specific step of the analysis as follows:
+Each script performs a specific step of the analysis. The **main analysis** uses a number of core scripts:
 
 - `Process_Country_TempPrecip.ipynb` calculates observed country-level temperature and precipitation.
 
 - `Observed_ENSO_Indices.ipynb` calculates the observed E- and C-index, as well as the Niño3 and Niño3.4 ENSO indices.
 
 - `Observed_Teleconnections.ipynb` uses the ENSO indices as well as country-level temp and precip to calculate the teleconnection indices used in the paper.
+
+- `Construct_ENSO_Panel.ipynb` assembles the above climate data along with economic data into a panel dataset used in the regression analysis.
+
+- `ENSO_Growth_Regression.R` performs the main regression analysis. Many different forms of the regression are performed (sensitivity analyses, etc.) with bootstraps for each one, so this script can take hours to run in full.
+
+...
+
+
+There are also several **supplementary analyses** that uses additional scripts:
 
