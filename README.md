@@ -23,7 +23,7 @@ Datasets not available in this repository are publicly available as follows:
 
 - The **Berkeley Earth** surface temperature data are available [here](https://berkeleyearth.org/data/). Our analysis uses the combined monthly land and ocean dataset at a 1-degree resolution.
 
-- The **GPCC** precipitation data are available [here](https://psl.noaa.gov/data/gridded/data.gpcc.html). Our analysis the "v2020" monthly total precipitation data.
+- The **GPCC** precipitation data are available [here](https://psl.noaa.gov/data/gridded/data.gpcc.html). Our analysis uses the "v2020" monthly total precipitation data.
 
 - **CMIP6 temperature, precipitation, and SST** data are generally available from the [Earth System Grid Federation](https://esgf-node.llnl.gov/search/cmip6/). Our analysis uses monthly temperature ("tas_Amon"), daily precip ("pr_day"), and monthly SST ("tos_Omon") data from as many models as were available in ~fall 2021 for SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5. Tables S3-S6 in the Supplementary Information show the models we use, along with the number of realizations from each model. 
 
@@ -41,7 +41,9 @@ Each script performs a specific step of the analysis. The **main analysis** uses
 
 - `ENSO_Growth_Regression.R` performs the main regression analysis. Many different forms of the regression are performed (sensitivity analyses, etc.) with bootstraps for each one, so this script can take hours to run in full.
 
-...
+- `ENSO_Event_Damages.py` calculates damages that result from individual historical El Niño events. 
+
+- `CMIP6_ENSO_Indices.py`, `CMIP6_Country_TempPrecip.py`, and `CMIP6_Teleconnections.py` calculate climate model-based versions of the ENSO indices and teleconnections over the 20th and 21st centuries. These scripts take hours to run, even when on a high-performance computing cluster, and the input data is generally not provided (see above) due to large file sizes. The rest of the analysis will still run, as the output datasets from these scripts are provided in the **Data** folder. 
 
 
 There are also several **supplementary analyses** that uses additional scripts:
