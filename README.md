@@ -45,6 +45,7 @@ Each script performs a specific step of the analysis. The **main analysis** uses
 
 - `CMIP6_ENSO_Indices.py`, `CMIP6_Country_TempPrecip.py`, and `CMIP6_Teleconnections.py` calculate climate model-based versions of the ENSO indices and teleconnections over the 20th and 21st centuries. These scripts take hours to run, even when on a high-performance computing cluster, and the input data is generally not provided (see above) due to large file sizes. The rest of the analysis will still run, as the output datasets from these scripts are provided in the **Data** folder. 
 
+- `ENSO_Future_Damages.py` calculates future economic losses from warming-driven changes in ENSO. 
 
 There are also several **supplementary analyses** that uses additional scripts:
 
