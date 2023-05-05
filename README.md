@@ -1,4 +1,4 @@
-# Persistent effect of El Ni$\tilde{n}$o on global economic growth
+# Persistent effect of El Niño on global economic growth
 
 Replication code and data for "Persistent effect of El Ni\~{n}o on global economic growth," by Christopher Callahan and Justin Mankin, published in _Science_, May 2023. 
 
