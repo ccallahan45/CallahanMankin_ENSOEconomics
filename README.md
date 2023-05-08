@@ -29,7 +29,7 @@ Raw climate datasets not available in this repository are publicly available as 
 
 - **CMIP6 temperature, precipitation, and SST** data are generally available from the [Earth System Grid Federation](https://esgf-node.llnl.gov/search/cmip6/). Our analysis uses monthly temperature ("tas_Amon"), daily precip ("pr_day"), and monthly SST ("tos_Omon") data from as many models as were available in ~fall 2021 for SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5. Tables S3-S6 in the Supplementary Information show the models we use, along with the number of realizations from each model. 
 
-If you'd like any other data that isn't provided here, please feel free to let me know.
+If you'd like any other data that isn't provided here (e.g., for the supplementary damages figures), please don't hesitate to let me (Chris) know.
 
 ### Scripts
 
