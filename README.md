@@ -17,7 +17,7 @@ The repository is organized into **Scripts/**, **Figures/**, and **Data/** folde
 
 ### Data 
 
-The full data for the economic damage estimates (underlying Figs. 2 and 4) are large, on the order of gigabytes, so they are not hosted in this repo. However, summarized versions of these datasets are available in the **Data/SummaryData/** folder. `Global_Losses_{1983/1998}.xlsx` have data on global losses from the two historical El Niño events we analyze (1982-83 and 1997-98), corresponding to Figure 2B. `Global_Warming_Damages.xlsx` has data on the global losses expected from changes in El Niño amplitude and teleconnections under various emissions scenarios and discount rates, approximately corresponding to Figure 4A. Damages_ByCountry.xlsx` has country-by-country values for both the historical and future damages, corresponding to Figure S11. 
+The full data for the economic damage estimates (underlying Figs. 2 and 4) are large, on the order of gigabytes, so they are not hosted in this repo. However, summarized versions of these datasets are available in the **Data/SummaryData/** folder. `Global_Losses_{1983/1998}.xlsx` have data on global losses from the two historical El Niño events we analyze (1982-83 and 1997-98), corresponding to Figure 2B. `Global_Warming_Damages.xlsx` has data on the global losses expected from changes in El Niño amplitude and teleconnections under various emissions scenarios and discount rates, approximately corresponding to Figure 4A. `Damages_ByCountry.xlsx` has country-by-country values for both the historical and future damages, corresponding to Figure S11. 
 
 Raw climate datasets not available in this repository are publicly available as follows:
 
