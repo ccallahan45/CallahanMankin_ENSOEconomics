@@ -12,7 +12,7 @@ The repository is organized into **Scripts/**, **Figures/**, and **Data/** folde
 
 - **Scripts/**: Code required to reproduce the findings of our work is included in this folder. Scripts are written primarily in Python, with R used for the empirical regression analysis. The scripts titled `Fig1.ipynb`, `Fig2.ipynb`, etc. contain the final code that produces the main text figures and most of the numbers cited in the text. 
 
-- **Figures/**: Figures are saved here. This is also where figures will be saved if you run the scripts. Minor postprocessing in Adobe Illustrator was used occasionally (e.g., for Figure 2) but generally the figures output by the scripts will be the same as what appears in the paper.
+- **Figures/**: Figures are saved here. This is also where figures will be saved if you run the scripts. Minor postprocessing in Adobe Illustrator was used occasionally (e.g., for Figure 2) but generally the figures output by the scripts will be the same as what appears in the paper. The only exception is Fig. S2, which was made entirely in Illustrator. Also note that these scripts do not produce the tables found in the Supplementary Material. The tables were made in LaTeX and code for creating each table is produced by the regression script (see below).
 
 
 ### Data 
@@ -45,7 +45,7 @@ Each script performs a specific step of the analysis. The **main analysis** uses
 
 - `CMIP6_ENSO_Indices.py`, `CMIP6_Country_TempPrecip.py`, and `CMIP6_Teleconnections.py` calculate climate model-based versions of the ENSO indices and teleconnections over the 20th and 21st centuries. These scripts take hours to run, even when on a high-performance computing cluster, and the input data is generally not provided (see above) due to large file sizes. The rest of the analysis will still run, as the output datasets from these scripts are provided in the **Data** folder. 
 
-- `ENSO_Future_Damages.py` calculates future economic losses from warming-driven changes in ENSO. 
+- `ENSO_Future_Damages.py` calculates future economic losses from warming-driven changes in ENSO. This script takes several hours to run on an HPC cluster. 
 
 - `Fig1.ipynb`, `Fig2.ipynb`, `Fig3.ipynb`, and `Fig4.ipynb` read the intermediate data, perform some final calculations, and plot the main figures.
 
