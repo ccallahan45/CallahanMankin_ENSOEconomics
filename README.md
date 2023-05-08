@@ -8,7 +8,7 @@ If you have questions or suggestions, contact Chris Callahan at _Christopher.W.C
 
 The repository is organized into **Scripts/**, **Figures/**, and **Data/** folders.
 
-- **Data/**: This folder includes intermediate and processed summary data that enable replication of most the figures and numbers cited in the text. Some of the files for the climate model projections and raw observational data are quite large, so they are not provided here. Details are below.
+- **Data/**: This folder includes intermediate and processed summary data that enable replication of most the figures and numbers cited in the text. Some of the files for the climate model projections, raw observational data, and damage estimates are quite large, so they are not provided here. Details are below.
 
 - **Scripts/**: Code required to reproduce the findings of our work is included in this folder. Scripts are written primarily in Python, with R used for the empirical regression analysis. The scripts titled `Fig1.ipynb`, `Fig2.ipynb`, etc. contain the final code that produces the main text figures and most of the numbers cited in the text. 
 
@@ -17,7 +17,9 @@ The repository is organized into **Scripts/**, **Figures/**, and **Data/** folde
 
 ### Data 
 
-Datasets not available in this repository are publicly available as follows:
+The full data for the economic damage estimates (underlying Figs. 2 and 4) are large, on the order of gigabytes, so they are not hosted in this repo. However, summarized versions of these datasets are available in the **Data/SummaryData/** folder. `Global_Losses_{1983/1998}.xlsx` have data on global losses from the two historical El Niño events we analyze (1982-83 and 1997-98), corresponding to Figure 2B. `Global_Warming_Damages.xlsx` has data on the global losses expected from changes in El Niño amplitude and teleconnections under various emissions scenarios, corresponding to Figure 4A. Damages_ByCountry.xlsx` has country-by-country values for both the historical and future damages, corresponding to Figure S11. 
+
+Raw climate datasets not available in this repository are publicly available as follows:
 
 - The **HadISST** sea surface temperature data are available from the Hadley Centre [here](https://www.metoffice.gov.uk/hadobs/hadisst/).
 
@@ -26,6 +28,8 @@ Datasets not available in this repository are publicly available as follows:
 - The **GPCC** precipitation data are available [here](https://psl.noaa.gov/data/gridded/data.gpcc.html). Our analysis uses the "v2020" monthly total precipitation data.
 
 - **CMIP6 temperature, precipitation, and SST** data are generally available from the [Earth System Grid Federation](https://esgf-node.llnl.gov/search/cmip6/). Our analysis uses monthly temperature ("tas_Amon"), daily precip ("pr_day"), and monthly SST ("tos_Omon") data from as many models as were available in ~fall 2021 for SSP1-2.6, SSP2-4.5, SSP3-7.0, and SSP5-8.5. Tables S3-S6 in the Supplementary Information show the models we use, along with the number of realizations from each model. 
+
+If you'd like any other data that isn't provided here, please feel free to let me know.
 
 ### Scripts
 
