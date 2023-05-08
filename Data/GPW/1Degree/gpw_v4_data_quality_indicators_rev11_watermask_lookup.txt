@@ -1,0 +1,5 @@
+Value	CATEGORY
+0	Total Water Pixels
+1	Partial Water Pixels
+2	Total Land Pixels
+3	Ocean Pixels

@@ -1,0 +1,8 @@
+Value	DATATYPE
+0	Not applicable
+1	Final census
+2	Final census, population register
+3	Final census, population register, population estimate/projection
+4	Preliminary/provisional census
+5	Population register
+6	Population estimate/projection

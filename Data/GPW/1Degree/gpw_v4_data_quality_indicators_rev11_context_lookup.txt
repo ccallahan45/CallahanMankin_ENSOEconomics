@@ -1,0 +1,9 @@
+Value	CATEGORY	Population Value
+0	Not applicable	> 0
+201	Park or protected area	NoData
+202	Military district, airport zone, or other infrastructure	NoData
+203	Not enumerated or not reported in census	NoData
+204	No households	0
+205	Uninhabited	0
+206	Population not gridded	NoData
+207	Missing age and/or sex data	> 0

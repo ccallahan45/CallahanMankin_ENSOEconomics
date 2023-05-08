@@ -1,0 +1,261 @@
+file_name,order,raster_name,raster_description
+gpw_v4_population_count_rev11,1,"Population Count, v4.11 (2000)",Population count for the year 2000
+gpw_v4_population_count_rev11,2,"Population Count, v4.11 (2005)",Population count for the year 2005
+gpw_v4_population_count_rev11,3,"Population Count, v4.11 (2010)",Population count for the year 2010
+gpw_v4_population_count_rev11,4,"Population Count, v4.11 (2015)",Population count for the year 2015
+gpw_v4_population_count_rev11,5,"Population Count, v4.11 (2020)",Population count for the year 2020
+gpw_v4_population_count_rev11,6,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_population_count_rev11,7,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_population_count_rev11,8,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_population_count_rev11,9,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_population_count_rev11,10,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_population_count_rev11,11,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_population_count_rev11,12,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_population_count_rev11,13,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_population_count_rev11,14,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_population_count_rev11,15,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_population_count_rev11,16,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_population_count_rev11,17,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11,18,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11,19,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11,20,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_population_density_rev11,1,"Population Density, v4.11 (2000)",Population density for the year 2000
+gpw_v4_population_density_rev11,2,"Population Density, v4.11 (2005)",Population density for the year 2005
+gpw_v4_population_density_rev11,3,"Population Density, v4.11 (2010)",Population density for the year 2010
+gpw_v4_population_density_rev11,4,"Population Density, v4.11 (2015)",Population density for the year 2015
+gpw_v4_population_density_rev11,5,"Population Density, v4.11 (2020)",Population density for the year 2020
+gpw_v4_population_density_rev11,6,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_population_density_rev11,7,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_population_density_rev11,8,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_population_density_rev11,9,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_population_density_rev11,10,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_population_density_rev11,11,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_population_density_rev11,12,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_population_density_rev11,13,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_population_density_rev11,14,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_population_density_rev11,15,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_population_density_rev11,16,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_population_density_rev11,17,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11,18,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11,19,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11,20,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_population_count_rev11_adjusted,1,"UN WPP-Adjusted Population Count, v4.11 (2000)",Population count for the year 2000 adjusted to UN WPP country totals
+gpw_v4_population_count_rev11_adjusted,2,"UN WPP-Adjusted Population Count, v4.11 (2005)",Population count for the year 2005 adjusted to UN WPP country totals
+gpw_v4_population_count_rev11_adjusted,3,"UN WPP-Adjusted Population Count, v4.11 (2010)",Population count for the year 2010 adjusted to UN WPP country totals
+gpw_v4_population_count_rev11_adjusted,4,"UN WPP-Adjusted Population Count, v4.11 (2015)",Population count for the year 2015 adjusted to UN WPP country totals
+gpw_v4_population_count_rev11_adjusted,5,"UN WPP-Adjusted Population Count, v4.11 (2020)",Population count for the year 2020 adjusted to UN WPP country totals
+gpw_v4_population_count_rev11_adjusted,6,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_population_count_rev11_adjusted,7,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_population_count_rev11_adjusted,8,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_population_count_rev11_adjusted,9,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_population_count_rev11_adjusted,10,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_population_count_rev11_adjusted,11,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_population_count_rev11_adjusted,12,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_population_count_rev11_adjusted,13,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_population_count_rev11_adjusted,14,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_population_count_rev11_adjusted,15,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_population_count_rev11_adjusted,16,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_population_count_rev11_adjusted,17,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11_adjusted,18,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11_adjusted,19,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_population_count_rev11_adjusted,20,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_population_density_rev11_adjusted,1,"UN WPP-Adjusted Population Density, v4.11 (2000)",Population density for the year 2000 adjusted to UN WPP densityry totals
+gpw_v4_population_density_rev11_adjusted,2,"UN WPP-Adjusted Population Density, v4.11 (2005)",Population density for the year 2005 adjusted to UN WPP densityry totals
+gpw_v4_population_density_rev11_adjusted,3,"UN WPP-Adjusted Population Density, v4.11 (2010)",Population density for the year 2010 adjusted to UN WPP densityry totals
+gpw_v4_population_density_rev11_adjusted,4,"UN WPP-Adjusted Population Density, v4.11 (2015)",Population density for the year 2015 adjusted to UN WPP densityry totals
+gpw_v4_population_density_rev11_adjusted,5,"UN WPP-Adjusted Population Density, v4.11 (2020)",Population density for the year 2020 adjusted to UN WPP densityry totals
+gpw_v4_population_density_rev11_adjusted,6,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_population_density_rev11_adjusted,7,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_population_density_rev11_adjusted,8,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_population_density_rev11_adjusted,9,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_population_density_rev11_adjusted,10,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_population_density_rev11_adjusted,11,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_population_density_rev11_adjusted,12,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_population_density_rev11_adjusted,13,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_population_density_rev11_adjusted,14,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_population_density_rev11_adjusted,15,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_population_density_rev11_adjusted,16,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_population_density_rev11_adjusted,17,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11_adjusted,18,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11_adjusted,19,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_population_density_rev11_adjusted,20,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,1,"Basic Demographic Characteristics, v4.11 (2010): Population count",Population count for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,2,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 0 to 4",Population count ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,3,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 5 to 9",Population count ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,4,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 10 to 14",Population count ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,5,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 15 to 19",Population count ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,6,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 20 to 24",Population count ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,7,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 25 to 29",Population count ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,8,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 30 to 34",Population count ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,9,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 35 to 39",Population count ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,10,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 40 to 44",Population count ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,11,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 45 to 49",Population count ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,12,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 50 to 54",Population count ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,13,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 55 to 59",Population count ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,14,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 60 to 64",Population count ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,15,"Basic Demographic Characteristics, v4.11 (2010): Population count ages 65 and over",Population count ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_cntm,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,1,"Basic Demographic Characteristics, v4.11 (2010): Population density",Population density for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,2,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 0 to 4",Population density ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,3,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 5 to 9",Population density ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,4,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 10 to 14",Population density ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,5,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 15 to 19",Population density ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,6,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 20 to 24",Population density ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,7,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 25 to 29",Population density ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,8,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 30 to 34",Population density ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,9,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 35 to 39",Population density ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,10,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 40 to 44",Population density ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,11,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 45 to 49",Population density ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,12,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 50 to 54",Population density ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,13,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 55 to 59",Population density ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,14,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 60 to 64",Population density ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,15,"Basic Demographic Characteristics, v4.11 (2010): Population density ages 65 and over",Population density ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_bt_2010_dens,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,1,"Basic Demographic Characteristics, v4.11 (2010): Female population count",Female population count for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,2,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 0 to 4",Female population count ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,3,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 5 to 9",Female population count ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,4,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 10 to 14",Female population count ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,5,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 15 to 19",Female population count ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,6,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 20 to 24",Female population count ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,7,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 25 to 29",Female population count ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,8,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 30 to 34",Female population count ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,9,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 35 to 39",Female population count ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,10,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 40 to 44",Female population count ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,11,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 45 to 49",Female population count ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,12,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 50 to 54",Female population count ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,13,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 55 to 59",Female population count ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,14,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 60 to 64",Female population count ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,15,"Basic Demographic Characteristics, v4.11 (2010): Female population count ages 65 and over",Female population count ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_cntm,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,1,"Basic Demographic Characteristics, v4.11 (2010): Female population density",Female population density for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,2,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 0 to 4",Female population density ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,3,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 5 to 9",Female population density ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,4,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 10 to 14",Female population density ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,5,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 15 to 19",Female population density ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,6,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 20 to 24",Female population density ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,7,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 25 to 29",Female population density ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,8,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 30 to 34",Female population density ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,9,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 35 to 39",Female population density ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,10,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 40 to 44",Female population density ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,11,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 45 to 49",Female population density ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,12,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 50 to 54",Female population density ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,13,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 55 to 59",Female population density ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,14,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 60 to 64",Female population density ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,15,"Basic Demographic Characteristics, v4.11 (2010): Female population density ages 65 and over",Female population density ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_ft_2010_dens,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,1,"Basic Demographic Characteristics, v4.11 (2010): Male population count",Male population count for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,2,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 0 to 4",Male population count ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,3,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 5 to 9",Male population count ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,4,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 10 to 14",Male population count ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,5,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 15 to 19",Male population count ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,6,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 20 to 24",Male population count ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,7,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 25 to 29",Male population count ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,8,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 30 to 34",Male population count ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,9,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 35 to 39",Male population count ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,10,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 40 to 44",Male population count ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,11,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 45 to 49",Male population count ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,12,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 50 to 54",Male population count ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,13,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 55 to 59",Male population count ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,14,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 60 to 64",Male population count ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,15,"Basic Demographic Characteristics, v4.11 (2010): Male population count ages 65 and over",Male population count ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_cntm,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,1,"Basic Demographic Characteristics, v4.11 (2010): Male population density",Male population density for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,2,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 0 to 4",Male population density ages 0 to 4 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,3,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 5 to 9",Male population density ages 5 to 9 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,4,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 10 to 14",Male population density ages 10 to 14 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,5,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 15 to 19",Male population density ages 15 to 19 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,6,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 20 to 24",Male population density ages 20 to 24 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,7,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 25 to 29",Male population density ages 25 to 29 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,8,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 30 to 34",Male population density ages 30 to 34 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,9,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 35 to 39",Male population density ages 35 to 39 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,10,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 40 to 44",Male population density ages 40 to 44 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,11,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 45 to 49",Male population density ages 45 to 49 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,12,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 50 to 54",Male population density ages 50 to 54 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,13,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 55 to 59",Male population density ages 55 to 59 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,14,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 60 to 64",Male population density ages 60 to 64 for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,15,"Basic Demographic Characteristics, v4.11 (2010): Male population density ages 65 and over",Male population density ages 65 and over for the year 2010
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,16,"Data Quality Indicators, v4.11 (2010): Data Context",Categorizes pixels with estimated 0 population for the year 2010 based on information provided in census documents (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,17,"Data Quality Indicators, v4.11 (2010): Mean Administrative Unit Area",Mean administrative unit area in square kilometers
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,18,"Data Quality Indicators, v4.11 (2010): Water Mask",Displays pixels that are completely water and/or ice and pixels that also contain land for the year 2010 (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,19,"Land and Water Area, v4.11 (2010): Land Area","Estimates of the land area, excluding permanent ice and water, within each pixel"
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,20,"Land and Water Area, v4.11 (2010): Water Area",Estimates of the water area (permanent ice and water) within each pixel
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,21,"National Identifier Grid, v4.11 (2010): National Identifier Grid",Numeric country codes corresponding to nation-states (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,22,"National Identifier Grid, v4.11 (2010): Data Code",A code referencing the type of population data used (see lookup)
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,23,"National Identifier Grid, v4.11 (2010): Input Data Year",The year of the input population data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,24,"National Identifier Grid, v4.11 (2010): Input Data Level",Highest administrative level of input data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,25,"National Identifier Grid, v4.11 (2010): Input Sex Data Level",Administrative level of input sex data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,26,"National Identifier Grid, v4.11 (2010): Input Age Data Level",Administrative level of input age data used
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,27,"National Identifier Grid, v4.11 (2010): Growth Rate Start Year",The earliest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,28,"National Identifier Grid, v4.11 (2010): Growth Rate End Year",The latest year used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,29,"National Identifier Grid, v4.11 (2010): Growth Rate Administrative Level",The dominant administrative level used to calculate the annual exponential growth rate
+gpw_v4_basic_demographic_characteristics_rev11_mt_2010_dens,30,"National Identifier Grid, v4.11 (2010): Year of Most Recent Census",Year of the most recent census conducted in the country/state

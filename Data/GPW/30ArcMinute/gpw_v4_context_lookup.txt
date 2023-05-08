@@ -1,0 +1,9 @@
+Data Context Value	Data Context Category
+0	Not applicable
+201	Park or protected area
+202	Military district, airport zone, or other infrastructure
+203	Not enumerated or not reported in census
+204	No households
+205	Uninhabited
+206	Population not gridded
+207	Missing age and/or sex data

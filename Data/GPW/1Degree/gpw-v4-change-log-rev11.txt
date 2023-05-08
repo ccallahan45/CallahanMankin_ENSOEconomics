@@ -1,0 +1,178 @@
+Gridded Population of the World, Version 4 (GPWv4)
+Log of Changes to the Data Sets by Version
+
+---------------------------------------
+December 2018 Release, Revision 11 (4.11)
+
+Erroneous no data pixels were recoded as zero and extent was updated to full global extent (90 to -90) in the following gridded data sets:
+	Population Count
+	Population Density
+	UN WPP-Adjusted Population Count
+	UN WPP-Adjusted Population Density
+	Data Quality Indicators
+	Land and Water Area
+	Basic Demographic Characteristics
+
+NetCDF files were updated to include the following layers:
+	Mean Administrative Unit Area
+	Land Area
+	Water Area
+	Input Sex Data Level
+	Input Age Data Level
+
+The National Identifier Grid was updated in the following ways:
+	Reprocessed to remove artifacts from inland water
+	Two attributes were added to indicate the administrative level of the demographic characteristics input data
+	Zip files were corrected to include the National Identifier Polygons shapefile
+
+Two new classes (Total Land Pixels and Ocean Pixels) were added to the Water Mask.
+
+Administrative level names of the Greece Administrative Unit Center Points were translated to English.
+
+---------------------------------------
+This document was revised 18 June 2018 with the following changes to the section for the November 2017 Release:
+
+* Syrian Arab Republic was removed from the "Country level changes" section as it was not updated for Revision 10.
+* Accordingly, the number of countries in the "Country level changes" section was updated from 65 to 64.
+
+---------------------------------------
+November 2017 Release, Revision 10 (4.10) Data Sets
+
+New datasets:
+	Basic Demographic Characteristics
+		<provides global gridded estimates of population counts by age and sex for the year 2010, consistent with national censuses and population registers.>
+
+In addition to the native 30 arc-second resolution data, the data have been aggregated to four lower resolutions to enable faster global processing and easier comparison to other data at these resolutions:
+	2.5 minute
+	15 minute
+	30 minute
+	1 degree
+
+The data are available at all five resolutions in ASCII (text) format in addition to GeoTIFF format. The data sets available in ASCII format are:
+	Population Count
+	Population Density
+	UN WPP-Adjusted Population Count
+	UN WPP-Adjusted Population Density
+	Data Quality Indicators
+	Land and Water Area
+	National Identifier Grid
+	Basic Demographic Charateristics
+
+The following data sets are available in netCDF format at all resolutions except 30 arc-second:
+	Population Count
+	Population Density
+	UN WPP-Adjusted Population Count
+	UN WPP-Adjusted Population Density
+	Basic Demographic Charateristics
+
+Global changes:
+	The global water mask source was updated to include more recent glacier data and local water data sources for high latitude areas.
+	Additional attributes have been added to the National Identifier Grid raster and polygon layers.
+	Population estimates by age and sex for 2010 have been added to the attribute table of the Administrative Unit Center Points with Population Estimates.
+
+Country level changes (64 countries):
+	Åland Islands (ALA): corrected data integration errors
+	Angola (AGO): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Armenia (ARM): a higher resolution source was acquired and incorporated into version 4.10
+	Austria (AUT): corrected data integration errors
+	Benin (BEN): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Bosnia and Herzegovina (BIH): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Brazil (BRA): corrected data integration errors
+	British Virgin Islands (VGB): a more recent population data source was acquired and incorporated into version 4.10
+	Brunei Darussalam (BRN): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Bulgaria (BGR): corrected data integration errors
+	Canada (CAN): corrected data integration errors
+	Côte d'Ivoire (CIV): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Croatia (HRV): corrected data integration errors
+	Cuba (CUB): corrected data integration errors
+	Cyprus (CYP): a source containing demographic data was acquired and incorporated into version 4.10, replacing the previous data
+	Equatorial Guinea (GNQ): a more recent population data source was acquired and incorporated into version 4.10
+	Finland (FIN): corrected data integration errors
+	France (FRA): lower resolution source containing demographic data was acquired and incorporated into version 4.10
+	Georgia (GEO): a more recent population data source was acquired and incorporated into version 4.10
+	Germany (DEU): corrected data integration errors
+	Guam (GUM): corrected data integration errors
+	Guernsey (GGY): a more recent population data source was acquired and incorporated into version 4.10
+	Guinea (GIN): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Holy See (VCS): corrected data integration errors
+	Honduras (HND): a more recent population data source was acquired and incorporated into version 4.10
+	Hungary (HUN): corrected data integration errors
+	Italy (ITA): a higher resolution source was acquired and incorporated into version 4.10
+	Israel(ISR): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Jamaica (JAM): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source 
+	Kosovo (KOS): corrected data integration errors
+	Kuwait (KWT): corrected data integration errors and an official source from Statistical Office was used and incorporated into version 4.10, replacing an unofficial source
+	Lao People's Democratic Republic (LAO): a higher resolution source was acquired and incorporated into version 4.10
+	Saint Lucia (LCA): corrected data integration errors and the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source 
+	Malawi (MWI): a more spatially accurate boundary source was acquired and incorporated into version 4.10
+	Maldives (MDV): corrected data integration errors
+	Montenegro (MNE): corrected data integration errors
+	Morocco (MAR): a more recent population data source was acquired and incorporated into version 4.10
+	Myanmar (MMR): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Northern Mariana Islands (MNP): a higher resolution source was acquired and incorporated into version 4.10
+	Pakistan (PAK): a more recent population data source was acquired and incorporated into version 4.10
+	Papua New Guinea (PNG): corrected data integration errors and an official source from Statistical Office was used and incorporated into version 4.10, replacing an unofficial source
+	Puerto Rico (PRI): corrected data integration errors
+	Paraguay (PRY): corrected data integration errors
+	Philippines (PHL): corrected data integration errors
+	Portugal (PRT): corrected data integration errors and a higher resolution source was acquired and incorporated into version 4.10 
+	Republic of Korea (KOR): a more spatially accurate boundary source was acquired and an official source from Statistical Office was used and incorporated into version 4.10, replacing an unofficial source
+	Romania (ROU): corrected data integration errors
+	Russian Federation (RUS):lower resolution source for demographic variables was acquired and incorporated into version 4.10
+	Saint Helena (SHN): corrected data integration errors
+	Saint Vincent and the Grenadines (VCT): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	San Marino (SMR): corrected data integration errors
+	Saudi Arabia (SAU): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Senegal (SEN): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Slovenia (SVN): corrected data integration errors
+	Spain (ESP): corrected data integration errors
+	Sri Lanka (LKA): the final version of the census was acquired and incorporated into version 4.10, replacing the preliminary source
+	Swaziland (SWZ): corrected data integration errors and an official source from Statistical Office was used and incorporated into version 4.10, replacing an unofficialsource 
+	Switzerland (CHE): corrected data integration errors
+	The former Yugoslav Republic of Macedonia (MKD): corrected data integration errors
+	Uganda (UGA): a more recent population data source was acquired and incorporated into version 4.10
+	United Kingdom of Great Britain and Northern Ireland (GBR): corrected data integration errors
+	United States of America (USA): corrected data integration errors
+	Western Sahara (ESH): a more recent population data source was acquired and incorporated into version 4.10
+	Yemen (YEM): corrected data integration errors
+
+---------------------------------------
+June 2016 Release, Version 4.0
+
+A prerelease of Gridded Population of the World Version 4 (GPWv4) was made available in the 4th quarter of 2015 in a "Beta" web environment. There were a number of changes to the GPWv4 collection between the Beta release and version 4.0. The changes are listed below along with information on how to obtain the Beta version of GPWv4.
+
+New data sets:
+	National Identifier Grid
+		<To provide a raster representation of nation-states in GPWv4 for use in aggregating population data.>
+
+	Data Quality Indicators Mean Administrative Unit Area
+		<provides a quantitative surface that indicates the size of the input unit(s) from which population count and density grids are derived.>
+
+
+Country level changes:
+	Egypt (EGY): The Beta version of Egypt's administrative boundaries and population estimates were found to be inaccurate. As a result a new source was acquired and incorporated into version 4.0
+	Panama (PAN): corrected data integration errors
+	Poland (POL): corrected data integration errors
+
+
+How to access the Beta release:
+
+We have preserved the Beta version of the data set in a long term archive with a unique set of DOIs. 
+
+	Beta data set DOIs:
+		Population Density - http://dx.doi.org/10.7927/H46T0JKB
+		UN-Adjusted Population Density - http://dx.doi.org/10.7927/H4TH8JNR
+		Population Count - http://dx.doi.org/10.7927/H4BG2KXS
+		UN-Adjusted Population Count - http://dx.doi.org/10.7927/H4PR7SX1
+		Land and Water Area - http://dx.doi.org/10.7927/H4M043BS
+		Data Quality Indicators - http://dx.doi.org/10.7927/H4QR4V2T
+		Administrative Unit Center Points with Population Estimates - http://dx.doi.org/10.7927/H4VH5KS4
+
+If you would like access to these data, or more information on either release, please email SEDAC User Services at "ciesin.info@ciesin.columbia.edu" or the GPW team at "gpw@ciesin.columbia.edu" and reference the data set DOIs listed above.
+
+
+---------------------------------------
+To be notified of the latest data releases, including GPWv4, and of related news that may interest you, please consider following SEDAC on the following social media:
+Youtube <https://www.youtube.com/channel/UCjUjAvV7M04SxxpM5wq4fMw>
+Twitter <https://twitter.com/ciesin/>
+Facebook <https://www.facebook.com/socioeconomicdataandappsctr> (Socioeconomic Data and Applications Center).
