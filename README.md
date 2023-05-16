@@ -2,7 +2,7 @@
 
 Replication code and data for "Persistent effect of El Niño on global economic growth," by Christopher Callahan and Justin Mankin, published in _Science_, May 2023. 
 
-If you have questions or suggestions, contact Chris Callahan at _Christopher.W.Callahan.GR (at) dartmouth (dot) edu_.
+If you have questions or suggestions, contact Chris at _Christopher.W.Callahan.GR (at) dartmouth (dot) edu_.
 
 ### Organization 
 
