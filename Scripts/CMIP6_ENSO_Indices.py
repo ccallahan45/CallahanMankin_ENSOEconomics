@@ -172,8 +172,6 @@ for exp in experiments:
             print("*************",flush=True)
             print(m+" ("+str(list(models_prefix).index(m)+1)+"/"+str(len(models_prefix))+")",flush=True)
             print("*************",flush=True)
-            if mname in ["CanESM5","CESM2","CESM2-WACCM","CNRM-ESM2-1","CNRM-CM6-1","ACCESS-ESM1-5","ACCESS-CM2","MIROC-ES2L","IPSL-CM6A-LR","FGOALS-g3","GISS-E2-1-G","GISS-E2-1-H"]:
-                continue
 
             # read data and concat
             tos_ds = xr.open_mfdataset(loc_in+var+"_"+mname+"_"+exp+"_"+mreal+"*.nc",concat_dim="time")
@@ -308,7 +306,6 @@ for exp in experiments:
                             print(str(alpha_num)+" models have alpha < -0.15",flush=True)
 
                         else:
-                            print(tos_hist)
                             grid_out = xe.util.grid_global(2.0,2.0)
                             #grid_out = xr.Dataset({'lat': (['lat'], grid_out_2d.lat[:,0].values),
                             #                            'lon': (['lon'],grid_out_2d.lon[0,:].values)})
@@ -335,9 +332,6 @@ for exp in experiments:
                             del([tos_hist_regrid,tos_ssp_regrid])
                             sst = xr.concat([sst_hist,sst_ssp],dim="time")
                             del([sst_hist,sst_ssp])
-
-                            print(sst)
-
 
                     elif ("gr" in fname_1)|("gr1" in fname_1)|("gr2" in fname_1):
 

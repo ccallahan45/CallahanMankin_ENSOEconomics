@@ -97,7 +97,6 @@ for e in experiments:
     models = reduce(np.intersect1d,(enso_models_prefix,temp_models_prefix,precip_models_prefix))
     print(models)
 
-    #models_limit = ["ACCESS-CM2","ACCESS-ESM1-5","CanESM5","CESM2","CESM2-WACCM","FGOALS-g3","HadGEM3-GC31-LL","HadGEM3-GC31-MM","MIROC-ES2L","IPSL-CM6A-LR","KACE-1-0-G"]
     models_limit = []
     # loop through models
     for m in models:
