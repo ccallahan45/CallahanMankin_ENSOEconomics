@@ -16,7 +16,7 @@ library(cowplot)
 library(texreg)
 
 # location
-setwd("/Volumes/rc/lab/C/CMIG/ccallahan/Variability_Economics/Replication/Scripts/") #Data/")
+# setwd("/your/desired/path/")
 loc_panel <- "../Data/Panel/"
 loc_save <- "../Data/RegressionResults/"
 
