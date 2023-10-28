@@ -65,7 +65,7 @@ There are also several **supplementary analyses** that use additional scripts:
 
 - `Plot_CountryLevel_Losses.ipynb` evaluates country-level economic damages (rather than just global damages) from the historical El Niño events and future ENSO changes, and plots Fig. S11 accordingly.
 
-- `Plot_Damage_Sensitivity.ipynb` plots the results of our future damages calculations when making alternative analytical choices such as using only one realization per climate model (Fig. S15).
+- `Plot_Damage_Sensitivity.ipynb` plots the results of our future damages calculations when making alternative analytical choices such as using only one realization per climate model (Fig. S13).
 
 - `Plot_Growth_Trends.ipynb` plots the histogram of linear trends in country-level economic growth (Fig. S15).
 
